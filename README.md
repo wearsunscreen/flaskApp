@@ -96,6 +96,7 @@ Firebase
 
 This app is base on Aaron Dunn's Flask-Firebase-Template
 - https://github.com/adjdunn/Flask-Firebase-Template
+- https://www.youtube.com/watch?v=HoRutj1z3fQ&t=586s
 
 
 
